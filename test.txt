@@ -3,3 +3,6 @@
 Gitのお勉強
 
 基本的なワークフローを学習
+
+Git add
+Git commit
