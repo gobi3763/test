@@ -6,3 +6,5 @@ Gitのお勉強
 
 Git add
 Git commit
+
+複数ファイルを上げてみる
