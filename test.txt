@@ -10,3 +10,5 @@ Git commit
 複数ファイルを上げてみる
 
 Git status
+
+Git diffコマンド
